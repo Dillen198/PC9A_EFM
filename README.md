@@ -82,25 +82,6 @@ To integrate the **PC-9A EFM** into your DCS World setup, follow these steps:
 
 ---
 
-## How to Use the Aircraft Manual
-
-The **PC-9A Aircraft Manual** provides detailed information on the aircraft's performance, procedures, and systems. To make full use of the manual:
-
-1. **Engine Operations**:
-   - Refer to the **Engine Performance Data** section for information on throttle settings, power curves, and fuel consumption.
-   - Use the **Startup and Shutdown Procedures** for realistic engine handling in the simulation.
-
-2. **Fuel Management**:
-   - Consult the **Fuel System Overview** for details on fuel tank capacities, pump operations, and emergency procedures.
-
-3. **Electrical and Hydraulic Systems**:
-   - Refer to the **Systems Description** sections for in-depth explanations of electrical load management, hydraulic pressure, and failure modes.
-
-4. **Performance Charts**:
-   - Use the **Performance Data Charts** for accurate reference during flight, including takeoff, climb, cruise, and landing performance.
-
----
-
 ## Troubleshooting
 
 If you encounter any issues during installation or operation, consider the following:
